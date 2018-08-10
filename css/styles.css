@@ -4,4 +4,14 @@ h1 {
 }
 .Description {
   background-color: blue;
+  font-style: italic;
+}
+h3 {
+  text-decoration: overline;
+}
+.Basic {
+  border: 4px red;
+  padding: 4px
+  margin: 6px;
+  background-color: white;
 }
