@@ -12,10 +12,15 @@ h3 {
 }
 .Basic {
  background-color: pink;
+ font-style: oblique;
 }
-img {
+.img {
   border: 4px red;
   padding: 4px
   margin: 6px;
   background-color: white;
+}
+body {
+    background-image: url('..images/back.png');
+    background-color: green;
 }
