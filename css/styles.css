@@ -10,8 +10,8 @@ h3 {
   text-decoration: overline;
   text-align: center;
 }
-.Basic p {
-  font-family: italic;
+.Basic {
+ background-color: pink;
 }
 img {
   border: 4px red;
