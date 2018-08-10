@@ -18,9 +18,8 @@ h3 {
   border: 4px red;
   padding: 4px
   margin: 6px;
-  background-color: white;
+  background-color: green;
 }
 body {
-    background-image: url('..images/back.png');
-    background-color: green;
+    background-color: blue;
 }
