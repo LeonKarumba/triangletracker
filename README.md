@@ -25,6 +25,14 @@
 -If base = width  and width =hypotenuse then output is an equilateral triangle.
 -If base=width or width=hypotenuse or length=hypotenuse then output is an isosceles triangle.
 -The sum of base + height  is less than or equal to hypotenuse or The sum of base + hypotenuse  is less than or equal to height or The sum of hypotenuse + height  is less than or equal to base then output is not a triangle
+Project Individual behaviours description
+
+``Behavior	Input	Output``
+3 sides are equal	5,5,5	Equilateral
+2 sides are equal	5,7,7	Isosceles
+No side is equal	8,7,6	Scalene
+Sum of 2 sides is greater than 1	60,8,7	NOT a triangle
+
 ######  COPYWRIGHT AND LICENSE INFORMATION 
 
 Attached MIT License
